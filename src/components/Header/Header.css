@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'latino';
+  src: url('/home/owais/Desktop/concurrency/src/components/Header/Foglihtenno06-VyZB.otf') format('opentype');
+}
+
+.header{
+  display: flex;
+  font-size: 2em;
+}
+.Title{
+  padding: 20px;
+  font-family: latino;
+  padding-top: 40px;
+  color: rgb(120, 231, 208);
+}
+.Logo{
+  padding: 10px;
+}
