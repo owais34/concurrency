@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Live-Exchange-rate-app-/static/css/main.302f0ca1.chunk.css",
+    "main.js": "/Live-Exchange-rate-app-/static/js/main.72351540.chunk.js",
+    "main.js.map": "/Live-Exchange-rate-app-/static/js/main.72351540.chunk.js.map",
+    "runtime-main.js": "/Live-Exchange-rate-app-/static/js/runtime-main.96621806.js",
+    "runtime-main.js.map": "/Live-Exchange-rate-app-/static/js/runtime-main.96621806.js.map",
+    "static/css/2.e584be57.chunk.css": "/Live-Exchange-rate-app-/static/css/2.e584be57.chunk.css",
+    "static/js/2.600365ed.chunk.js": "/Live-Exchange-rate-app-/static/js/2.600365ed.chunk.js",
+    "static/js/2.600365ed.chunk.js.map": "/Live-Exchange-rate-app-/static/js/2.600365ed.chunk.js.map",
+    "index.html": "/Live-Exchange-rate-app-/index.html",
+    "precache-manifest.91b01e1400908d727effa95ac5d3d568.js": "/Live-Exchange-rate-app-/precache-manifest.91b01e1400908d727effa95ac5d3d568.js",
+    "service-worker.js": "/Live-Exchange-rate-app-/service-worker.js",
+    "static/css/2.e584be57.chunk.css.map": "/Live-Exchange-rate-app-/static/css/2.e584be57.chunk.css.map",
+    "static/css/main.302f0ca1.chunk.css.map": "/Live-Exchange-rate-app-/static/css/main.302f0ca1.chunk.css.map",
+    "static/js/2.600365ed.chunk.js.LICENSE.txt": "/Live-Exchange-rate-app-/static/js/2.600365ed.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/Live-Exchange-rate-app-/static/media/logo.0b567050.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96621806.js",
+    "static/css/2.e584be57.chunk.css",
+    "static/js/2.600365ed.chunk.js",
+    "static/css/main.302f0ca1.chunk.css",
+    "static/js/main.72351540.chunk.js"
+  ]
+}
